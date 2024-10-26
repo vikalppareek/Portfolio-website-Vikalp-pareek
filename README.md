@@ -1,3 +1,3 @@
-# Portfolio-Website Samridh Gaur
+# Portfolio-Website Vikalp Pareek
  
-The Website is Hosted at : https://portfolio-website-samridh-gaur.vercel.app/
+ 
